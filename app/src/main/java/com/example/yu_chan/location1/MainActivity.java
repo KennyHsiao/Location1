@@ -41,7 +41,8 @@ public class MainActivity extends ActionBarActivity implements GoogleApiClient.C
                 .addOnConnectionFailedListener(this)
                 .addApi(LocationServices.API);
 
-
+        int i = 1 ;
+        int ii = 2+2;
     }
 
     @Override
